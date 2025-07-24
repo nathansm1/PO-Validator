@@ -1,0 +1,1 @@
+run = "streamlit run po_image_validator_app.py"
